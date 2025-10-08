@@ -1,7 +1,7 @@
 dic = {
     "username": "ali",
     "pass": "12345678",
-    "name": "ali ahmed",
+    "name": "ali nabeel ",
     "age": 21,
     "mail": "ali@mail.ru",
 }
